@@ -1,0 +1,152 @@
+body{
+    background-color: #fdf7f1;
+    text-align: center;
+    margin: 0;
+    font-family: 'Spectral', serif;
+    color: #2d3836;
+}
+
+.top-container{
+    background-color: #325288;
+    padding-top: 60px;
+    position: relative;
+}
+
+.middle-container{
+    padding-top: 80px;
+}
+
+.bottom-container{
+    padding-top:20px;
+    padding-bottom: 10px;
+    background-color: #114E60;
+}
+
+.bottom-container p{
+    color: white;
+}
+
+.attribute{
+    font-size: 0.6em;
+    color: thistle;
+}
+
+hr{
+    border-style: dotted hidden hidden;
+    border-width: 8px;
+    width: 5%;
+    margin: 50px auto 50px auto;
+    color: #325288;
+
+}
+
+.skill-row{
+    padding-bottom:30px;
+    width: 50%;
+    margin: 100px auto auto;
+    line-height: 2;
+}
+.contact-me{
+    padding-bottom: 50px;
+}
+
+h1{
+    margin-top: 0;
+    font-family:'Rock Salt', cursive;
+    font-size: 50px;
+    color: #F5CEBE;
+    line-height: 2;
+}
+
+h2{
+    font-family:'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #f7c9b7;
+}
+
+h3{
+    font-family:'Noto Sans', sans-serif;
+    color: #00a8ad;
+}
+
+.icon{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+#media{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+
+.skill-row p{
+    text-align: left;
+}
+
+.girl{
+    width: 300px;
+}
+
+span{
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+a{
+    color: #21acb1;
+    text-decoration: none;
+}
+
+.footer-link{
+    padding: 20px;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+}
+
+.top-inner-container{
+    position:relative;
+    width: 600px;
+    margin:0 auto;
+}
+
+.bottom-cloud{
+    position:absolute;
+    width: 100px;
+
+}
+
+.top-cloud{
+    position:absolute;
+    right:0px;
+    bottom: 550px;
+    width: 100px;
+
+}
+
+.btn {
+    border-radius: 15px;
+    height: 15px;
+    color: #FFFFFF;
+    font-family: 'Noto Sans', sans-serif;
+    width: 105px;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 17px;
+    margin-top: 20px;
+    background-color: #067F83;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #68C1C5;
+    border-radius: 20px;
+    text-decoration: none;
+ }
